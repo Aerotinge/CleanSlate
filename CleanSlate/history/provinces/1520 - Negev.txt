@@ -16,7 +16,7 @@ b_negev = castle
 #b_ezuz = castle
 
 # Misc
-culture = levantine
+culture = levantine_arabic
 religion = sunni
 
 # History

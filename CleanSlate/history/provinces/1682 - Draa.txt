@@ -10,7 +10,7 @@ b_tazagourt = tribal
 b_tizgui = temple
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = shiite
 
 # History

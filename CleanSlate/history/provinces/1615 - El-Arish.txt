@@ -19,7 +19,7 @@ b_arish = castle
 #b_zuwayid = castle
 
 # Misc
-culture = levantine
+culture = levantine_arabic
 religion = miaphysite
 
 # History

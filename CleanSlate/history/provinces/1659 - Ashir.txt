@@ -10,7 +10,7 @@ b_asir_yasir = castle
 b_asir_banya = city
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = ibadi
 
 # History

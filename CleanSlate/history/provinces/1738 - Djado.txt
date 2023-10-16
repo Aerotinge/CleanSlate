@@ -11,7 +11,7 @@ b_djado = tribal
 #b_tummo
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = ibadi
 
 # History

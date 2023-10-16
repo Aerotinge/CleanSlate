@@ -1,6 +1,4 @@
-animalgfx = {
-	skin_tone = 0 # So Validator doesn't complain
-}
+animalgfx = {}
 
 horsegfx = {
 	skin_tone = 0

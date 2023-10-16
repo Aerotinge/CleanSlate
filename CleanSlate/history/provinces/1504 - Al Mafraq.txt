@@ -16,7 +16,7 @@ b_jarash = temple
 #b_elemtaih = castle
 
 # Misc
-culture = levantine
+culture = levantine_arabic
 religion = sunni
 
 # History

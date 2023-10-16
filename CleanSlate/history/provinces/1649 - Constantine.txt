@@ -16,7 +16,7 @@ b_guelma = city
 #b_mechtakebira = castle
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = sunni
 
 # History

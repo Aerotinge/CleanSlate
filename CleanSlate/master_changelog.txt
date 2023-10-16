@@ -1048,16 +1048,6 @@ Added logging to many laws to make it easier to find issues
 Rewrite of all trigger to be easier to read, added a few comments
 Used 'allow'-trigger in addition to 'potential'-trigger for a few governments
 
-Renamed internal IDs:
- - muslim_government -> muslim_feudal_government
- - theocratic_feudal_government -> monastic_feudal_government
-
-Renamed internal suffixes:
- - _iqta -> _muslim_feudal
- - _chineseimperial -> _chinese_imperial
- - _romanimperial -> _roman_imperial
- - _merchantrepublic -> _merchant_republic
-
 
 
 = Nicknames =

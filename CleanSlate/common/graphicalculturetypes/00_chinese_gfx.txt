@@ -1,7 +1,0 @@
-# Chinese Culturalgfx
-
-chinesegfx = {
-	skin_tone = 1
-}
-
-hangfx = { skin_tone = 1 }

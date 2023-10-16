@@ -16,7 +16,7 @@ b_hodeida = castle
 #b_harib = city
 
 # Misc
-culture = bedouin
+culture = bedouin_arabic
 religion = ibadi
 
 # History

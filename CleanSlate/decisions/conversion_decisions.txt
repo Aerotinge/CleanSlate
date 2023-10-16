@@ -309,13 +309,13 @@ targeted_decisions = {
 					AND = {
 						capital_scope = {
 							OR = {
-								culture = anglo_saxon
+								culture = anglo-saxon
 								culture = norman
 							}
 						}
 
 						OR = {
-							culture = anglo_saxon
+							culture = anglo-saxon
 							culture = norman
 							culture = english
 						}
@@ -355,7 +355,7 @@ targeted_decisions = {
 						capital_scope = { culture = visigothic }
 						OR = {
 							culture_group = iberian
-							culture = andalusian
+							culture = andalusian_arabic
 							culture = occitan
 							religion_group = muslim
 						}
@@ -1722,12 +1722,12 @@ targeted_decisions = {
 			}
 
 			any_realm_province = {
-				culture = andalusian
+				culture = andalusian_arabic
 				held_under_PREV = yes
 			}
 
 			NOR = {
-				culture = andalusian
+				culture = andalusian_arabic
 				government = chinese_imperial_government
 
 				has_alternate_start_parameter = {
@@ -1738,7 +1738,7 @@ targeted_decisions = {
 		}
 
 		effect = {
-			culture = andalusian
+			culture = andalusian_arabic
 
 			any_dynasty_member = {
 				show_scope_change = no
@@ -1748,7 +1748,7 @@ targeted_decisions = {
 					employer = { character = ROOT }
 				}
 
-				culture = andalusian
+				culture = andalusian_arabic
 			}
 		}
 
@@ -1759,20 +1759,20 @@ targeted_decisions = {
 				factor = 0.01
 
 				capital_scope = {
-					NOT = { culture = andalusian }
+					NOT = { culture = andalusian_arabic }
 				}
 			}
 
 			mult_modifier = {
 				factor = 2.0
-				liege = { culture = andalusian }
+				liege = { culture = andalusian_arabic }
 			}
 
 			mult_modifier = {
 				factor = 1.1
 
 				num_culture_realm_provs = {
-					culture = andalusian
+					culture = andalusian_arabic
 					value >= 2
 				}
 			}
@@ -1781,7 +1781,7 @@ targeted_decisions = {
 				factor = 1.1
 
 				num_culture_realm_provs = {
-					culture = andalusian
+					culture = andalusian_arabic
 					value >= 4
 				}
 			}
@@ -1790,7 +1790,7 @@ targeted_decisions = {
 				factor = 1.1
 
 				num_culture_realm_provs = {
-					culture = andalusian
+					culture = andalusian_arabic
 					value >= 6
 				}
 			}
@@ -1799,7 +1799,7 @@ targeted_decisions = {
 				factor = 1.1
 
 				num_culture_realm_provs = {
-					culture = andalusian
+					culture = andalusian_arabic
 					value >= 8
 				}
 			}
@@ -1808,7 +1808,7 @@ targeted_decisions = {
 				factor = 1.1
 
 				num_culture_realm_provs = {
-					culture = andalusian
+					culture = andalusian_arabic
 					value >= 10
 				}
 			}

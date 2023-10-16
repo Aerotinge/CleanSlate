@@ -20,7 +20,7 @@ b_igilliz = tribal
 #b_biourga
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = shiite
 
 # History

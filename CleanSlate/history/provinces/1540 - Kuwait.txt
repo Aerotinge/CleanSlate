@@ -15,7 +15,7 @@ b_ikaros = temple
 #b_ashshuaybah = city
 #b_falalheel = castle
 
-culture = bedouin
+culture = bedouin_arabic
 religion = sunni
 
 # History

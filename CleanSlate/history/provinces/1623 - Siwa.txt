@@ -16,7 +16,7 @@ b_siwa = temple
 #b_ziwaelbahari = castle
 
 # Misc
-culture = egyptian
+culture = egyptian_arabic
 religion = miaphysite
 
 # History

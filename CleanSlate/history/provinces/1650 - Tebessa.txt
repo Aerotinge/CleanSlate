@@ -16,7 +16,7 @@ b_baghaya = city
 #b_khenchela
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = sunni
 
 # History

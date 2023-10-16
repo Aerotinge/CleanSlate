@@ -15,7 +15,7 @@ b_famia = temple
 #b_treiz = castle
 
 # Misc
-culture = levantine
+culture = levantine_arabic
 religion = orthodox
 
 # History

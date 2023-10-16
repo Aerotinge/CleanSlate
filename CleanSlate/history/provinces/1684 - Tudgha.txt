@@ -11,7 +11,7 @@ b_tudgha = castle
 #b_alnif
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = kharijite
 
 # History

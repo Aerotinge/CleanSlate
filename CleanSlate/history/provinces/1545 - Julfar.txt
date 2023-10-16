@@ -16,7 +16,7 @@ b_qutuf = temple
 #b_sharjah = castle
 
 # Misc
-culture = bedouin
+culture = bedouin_arabic
 religion = ibadi
 
 # History

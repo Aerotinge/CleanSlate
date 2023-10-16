@@ -10,7 +10,7 @@ b_nalut = tribal
 #b_fursata
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = ibadi
 terrain = desert
 

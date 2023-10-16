@@ -22,7 +22,7 @@ b_sidirahhal = temple
 #b_alnif = castle
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = shiite
 
 # History

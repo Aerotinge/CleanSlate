@@ -16,7 +16,7 @@ b_macclesfield = city
 #b_nantwich = castle
 
 # Misc
-culture = anglo_saxon
+culture = anglo-saxon
 religion = catholic
 
 # History

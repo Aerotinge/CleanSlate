@@ -10,7 +10,7 @@ b_arigh = castle
 #b_ajlu
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = kharijite
 
 # History

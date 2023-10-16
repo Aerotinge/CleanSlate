@@ -16,7 +16,7 @@ b_afza = temple
 #b_ait_itab
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = shiite
 
 # History

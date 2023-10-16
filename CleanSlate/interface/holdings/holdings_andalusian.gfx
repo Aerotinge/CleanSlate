@@ -97,19 +97,19 @@ spriteTypes = {
 	# shiitegfx
 	# sunnigfx
 
-	## jewishgfx
+	## judaicgfx
 	# karaitegfx
 	# samaritangfx
 
 	## pagangfx
-	# saheliangfx
+	# africanpagangfx
 	# aztecgfx
-	# romuvagfx
+	# balticgfx
 	# bongfx
-	# suomenuskogfx
+	# finnishgfx
 	# hellenicgfx
-	# heathengfx
-	# rodnoverygfx
+	# nordicgfx
+	# slavicgfx
 	# tengrigfx
 	# zungfx
 

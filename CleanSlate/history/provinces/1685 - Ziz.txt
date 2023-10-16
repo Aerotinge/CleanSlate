@@ -12,7 +12,7 @@ b_ziz = castle
 #b_boudnib
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = kharijite
 
 # History

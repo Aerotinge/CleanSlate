@@ -11,7 +11,7 @@ b_tinmallal = tribal
 #b_aghmat
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = shiite
 
 # History

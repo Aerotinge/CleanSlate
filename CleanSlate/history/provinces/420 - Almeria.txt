@@ -27,7 +27,7 @@ religion = catholic
 }
 
 939.1.1 = {
-	culture = andalusian
+	culture = andalusian_arabic
 }
 
 955.1.1 = {

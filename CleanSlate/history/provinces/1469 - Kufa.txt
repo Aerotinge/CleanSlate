@@ -16,7 +16,7 @@ b_chibayish = castle
 #b_shuyukh = castle
 
 # Misc
-culture = bedouin
+culture = bedouin_arabic
 religion = nestorian
 
 # History

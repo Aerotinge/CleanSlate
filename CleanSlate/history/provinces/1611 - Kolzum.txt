@@ -9,7 +9,7 @@ b_kolzum = castle
 b_sokhna = city
 
 # Misc
-culture = egyptian
+culture = egyptian_arabic
 religion = miaphysite
 
 # History

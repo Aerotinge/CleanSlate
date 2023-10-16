@@ -10,10 +10,10 @@ byzantine = {
 		}
 
 	}
-	graphical_cultures =  { byzantinegfx easterngfx } # easterngfx
+	graphical_cultures =  { easterngfx }
 
 	alan = {
-		graphical_cultures = { alangfx easternslavicgfx } # easternslavicgfx
+		graphical_cultures = { easternslavicgfx }
 		color = { 0.7 0.5 0.7 }
 
 		male_names = {
@@ -62,7 +62,7 @@ byzantine = {
 	}
 
 	arberian = {
-		graphical_cultures = { arberiangfx } # byzantinegfx
+		graphical_cultures = { byzantinegfx }
 		color = { 0.7 0.2 0.9 }
 
 		male_names = {
@@ -106,7 +106,7 @@ byzantine = {
 	}
 
 	armenian = {
-		graphical_cultures = { armeniangfx } # byzantinegfx
+		graphical_cultures = { byzantinegfx }
 		color = { 0.5 0.2 0.5 }
 
 		male_names = {
@@ -156,8 +156,8 @@ byzantine = {
 	}
 
 	assyrian = {
-		graphical_cultures = { assyriangfx persiangfx } # persiangfx
-		secondary_event_pictures = bedouin
+		graphical_cultures = { persiangfx }
+		secondary_event_pictures = bedouin_arabic
 		color = { 0.4 0.3 0.6 }
 
 		male_names = {
@@ -207,8 +207,8 @@ byzantine = {
 		prefix = yes
 	}
 
-	coptic = { # copto-egyptian
-		graphical_cultures = { copticgfx } # byzantinegfx
+	coptic = { #copto-egyptian
+		graphical_cultures = { byzantinegfx }
 		color = { 0.6 0.4 0.6 }
 
 		male_names = {
@@ -263,7 +263,7 @@ byzantine = {
 	}
 
 	georgian = {
-		graphical_cultures = { georgiangfx } # byzantinegfx
+		graphical_cultures = { byzantinegfx }
 		color = { 0.6 0.3 0.8 }
 
 		male_names = {
@@ -315,7 +315,7 @@ byzantine = {
 	}
 
 	greek = {
-		graphical_cultures = { greekgfx } # byzantinegfx
+		graphical_cultures = { byzantinegfx }
 		color = { 0.8 0.3 0.8 }
 
 		male_names = {
@@ -377,8 +377,8 @@ byzantine = {
 		disinherit_from_blinding = yes
 	}
 
-	crimean_gothic = { # Gothic
-		graphical_cultures = { crimeangfx } # crimeangfx byzantinegfx
+	crimean_gothic = {
+		graphical_cultures = { crimeangfx byzantinegfx }
 		color = { 0.8 0.4 0.8}
 
 		male_names = {

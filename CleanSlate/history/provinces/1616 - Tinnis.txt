@@ -15,7 +15,7 @@ b_ismaillia = castle
 #b_serapeum = castle
 
 # Misc
-culture = egyptian
+culture = egyptian_arabic
 religion = sunni
 
 # History

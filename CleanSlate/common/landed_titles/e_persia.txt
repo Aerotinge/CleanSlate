@@ -632,7 +632,7 @@ e_persia = {
 
 		capital = 1476 # Baghdad
 
-		culture = levantine
+		culture = levantine_arabic
 
 		roman = "Babylonia"
 		armenian = "Babylonia"
@@ -1160,7 +1160,7 @@ e_persia = {
 
 		capital	= 1483 # Mosul
 
-		culture = levantine
+		culture = levantine_arabic
 
 		roman = "Assyria"
 		armenian = "Assyria"

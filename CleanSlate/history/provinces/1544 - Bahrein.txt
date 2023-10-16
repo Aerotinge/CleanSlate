@@ -16,7 +16,7 @@ b_murwab = temple
 #b_aldur = castle
 
 # Misc
-culture = bedouin
+culture = bedouin_arabic
 religion = shiite
 
 # History

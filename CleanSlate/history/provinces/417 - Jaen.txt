@@ -15,7 +15,7 @@ religion = sunni
 # History
 
 929.1.1 = {
-	culture = andalusian
+	culture = andalusian_arabic
 }
 
 1251.1.1 = {

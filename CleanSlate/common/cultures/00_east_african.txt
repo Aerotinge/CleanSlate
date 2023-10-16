@@ -10,11 +10,11 @@ east_african = {
 		}
 	}
 
-	graphical_cultures = { eastafricangfx africangfx westafricangfx muslimgfx } # muslimgfx
+	graphical_cultures = { muslimgfx }
 
 	daju = {
-		graphical_cultures = { dajugfx } # africangfx westafricangfx
-		secondary_event_pictures = bedouin
+		graphical_cultures = { africangfx westafricangfx }
+		secondary_event_pictures = bedouin_arabic
 		color = { 0.95 0.9 0.65 }
 
 		male_names = {
@@ -64,8 +64,8 @@ east_african = {
 	}
 
 	ethiopian = {
-		graphical_cultures = { ethiopiangfx } # africangfx westafricangfx
-		secondary_event_pictures = bedouin
+		graphical_cultures = { africangfx westafricangfx }
+		secondary_event_pictures = bedouin_arabic
 		color = { 0.4 0.4 0.3 }
 
 		male_names = {
@@ -117,8 +117,8 @@ east_african = {
 	}
 
 	nubian = {
-		graphical_cultures = { nubiangfx } # africangfx westafricangfx
-		secondary_event_pictures = bedouin
+		graphical_cultures = { africangfx westafricangfx }
+		secondary_event_pictures = bedouin_arabic
 		color = { 0.6 0.6 0.5 }
 
 		male_names = {
@@ -166,8 +166,8 @@ east_african = {
 	}
 
 	somali = {
-		graphical_cultures = { somaligfx } # africangfx westafricangfx
-		secondary_event_pictures = bedouin
+		graphical_cultures = { africangfx westafricangfx }
+		secondary_event_pictures = bedouin_arabic
 		color = { 0.2 0.2 0.1 }
 
 		male_names = {

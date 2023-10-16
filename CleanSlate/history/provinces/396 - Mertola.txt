@@ -22,7 +22,7 @@ religion = catholic
 811.1.1 = { religion = sunni }
 
 939.1.1 = {
-	culture = andalusian
+	culture = andalusian_arabic
 }
 
 1253.1.1 = {

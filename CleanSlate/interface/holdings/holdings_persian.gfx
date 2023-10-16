@@ -209,15 +209,15 @@ spriteTypes = {
 	# shiitegfx
 	# sunnigfx
 
-	## jewishgfx
+	## judaicgfx
 	spriteType = {
-		name = "GFX_settlement_temple_persiangfx_jewishgfx"
+		name = "GFX_settlement_temple_persiangfx_judaicgfx"
 		textureFile = "gfx\\interface\\placeholder_temple_zoro_other.tga"
 		noOfFrames = 1
 		noRefCount = yes
 	}
 	spriteType = { # Vanilla forgot this one
-		name = "GFX_settlement_temple_persiangfx_jewishgfx_looted"
+		name = "GFX_settlement_temple_persiangfx_judaicgfx_looted"
 		textureFile = "gfx\\interface\\placeholder_temple_zoro_other_looted.tga"
 		noOfFrames = 1
 		noRefCount = yes
@@ -238,23 +238,23 @@ spriteTypes = {
 		noOfFrames = 1
 		noRefCount = yes
 	}
-	# saheliangfx
+	# africanpagangfx
 	spriteType = {
-		name = "GFX_settlement_temple_persiangfx_saheliangfx"
+		name = "GFX_settlement_temple_persiangfx_africanpagangfx"
 		textureFile = "gfx\\interface\\placeholder_temple_zoroastrian.tga"
 		noOfFrames = 1
 		noRefCount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_temple_persiangfx_saheliangfx_looted"
+		name = "GFX_settlement_temple_persiangfx_africanpagangfx_looted"
 		textureFile = "gfx\\interface\\placeholder_temple_zoroastrian_looted.tga"
 		noOfFrames = 1
 		noRefCount = yes
 	}
 	# aztecgfx
-	# romuvagfx
+	# balticgfx
 	# bongfx
-	# suomenuskogfx
+	# finnishgfx
 	# hellenicgfx
 	spriteType = {
 		name = "GFX_settlement_temple_persiangfx_hellenicgfx"
@@ -268,8 +268,8 @@ spriteTypes = {
 		noOfFrames = 1
 		noRefCount = yes
 	}
-	# heathengfx
-	# rodnoverygfx
+	# nordicgfx
+	# slavicgfx
 	# tengrigfx
 	# zungfx
 

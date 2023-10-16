@@ -16,7 +16,8 @@ b_ibra = city
 #b_shiya = castle
 
 # Misc
-culture = bedouin
+culture = bedouin_arabic
 religion = ibadi
 
 # History
+

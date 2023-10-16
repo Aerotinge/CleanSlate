@@ -18,7 +18,8 @@ b_nizwa = castle
 #b_hubara = castle
 
 # Misc
-culture = bedouin
+culture = bedouin_arabic
 religion = ibadi
 
 # History
+

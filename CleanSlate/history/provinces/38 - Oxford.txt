@@ -16,7 +16,7 @@ b_abingdon = temple
 #b_wallingford = castle
 
 # Misc
-culture = anglo_saxon
+culture = anglo-saxon
 religion = catholic
 
 # History

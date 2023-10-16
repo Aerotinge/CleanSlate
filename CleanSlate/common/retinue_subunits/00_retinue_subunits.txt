@@ -496,7 +496,7 @@ RETTYPE_CUL_NORTHGER = {
 
 		OR = {
 			culture_group = north_germanic
-			culture = anglo_saxon
+			culture = anglo-saxon
 			culture = saxon
 			culture = frisian
 		}
@@ -538,8 +538,8 @@ RETTYPE_CUL_ARAB = {
 		culture_group = arabic
 
 		NOR = {
-			culture = andalusian
-			culture = berber
+			culture = andalusian_arabic
+			culture = maghreb_arabic
 		}
 	}
 
@@ -556,7 +556,7 @@ RETTYPE_CUL_ANDALUSIAN = {
 
 	potential = {
 		is_nomadic = no
-		culture = andalusian
+		culture = andalusian_arabic
 	}
 
 	modifier = {
@@ -572,7 +572,7 @@ RETTYPE_CUL_BERBER = {
 
 	potential = {
 		is_nomadic = no
-		culture = berber
+		culture = maghreb_arabic
 	}
 
 	modifier = {

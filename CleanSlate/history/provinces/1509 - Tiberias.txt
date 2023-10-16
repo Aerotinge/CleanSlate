@@ -19,7 +19,7 @@ b_mnttabor = temple
 #b_lafeve = castle
 
 # Misc
-culture = levantine
+culture = levantine_arabic
 religion = orthodox
 
 # History

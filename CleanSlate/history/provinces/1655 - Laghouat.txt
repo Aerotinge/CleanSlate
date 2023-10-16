@@ -16,7 +16,7 @@ b_al_aghwat = castle
 #b_beneldir = castle
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = ibadi
 
 # History

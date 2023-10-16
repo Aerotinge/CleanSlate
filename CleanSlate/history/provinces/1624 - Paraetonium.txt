@@ -9,7 +9,7 @@ b_zygis = castle
 b_paraetonium = city
 
 # Misc
-culture = egyptian
+culture = egyptian_arabic
 religion = sunni
 
 # History

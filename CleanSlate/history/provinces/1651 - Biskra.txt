@@ -17,7 +17,7 @@ b_magra = city
 #b_branis = castle
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = ibadi
 
 # History

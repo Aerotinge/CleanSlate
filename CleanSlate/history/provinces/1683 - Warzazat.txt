@@ -12,7 +12,7 @@ b_warzazat = tribal
 #b_shwan = temple
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = shiite
 
 # History

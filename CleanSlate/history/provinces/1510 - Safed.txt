@@ -16,7 +16,7 @@ b_banyas = temple
 #b_belvoir = castle
 
 # Misc
-culture = levantine
+culture = levantine_arabic
 religion = monothelite
 
 # History

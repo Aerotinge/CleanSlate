@@ -16,7 +16,7 @@ b_sidibouzid = city
 #b_meknassy = castle
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = sunni
 
 # History

@@ -975,7 +975,7 @@ character_event = {
 				random_list = {
 					25 = { # Arabic Sunni (Mutazilite)
 						create_character = {
-							culture = bedouin
+							culture = bedouin_arabic
 							religion = sunni
 							dynasty = culture
 							age = 35
@@ -997,7 +997,7 @@ character_event = {
 
 					25 = { # Berber Kharijite (Mystic)
 						create_character = {
-							culture = berber
+							culture = maghreb_arabic
 							religion = kharijite
 							dynasty = culture
 							age = 35
@@ -1032,7 +1032,7 @@ character_event = {
 
 					25 = { # Egyptian Shia (Mutazilite)
 						create_character = {
-							culture = egyptian
+							culture = egyptian_arabic
 							religion = shiite
 							dynasty = culture
 							age = 35
@@ -1054,7 +1054,7 @@ character_event = {
 
 					25 = { # Levantine Druze (Mystic)
 						create_character = {
-							culture = levantine
+							culture = levantine_arabic
 							religion = druze
 							dynasty = culture
 							age = 35

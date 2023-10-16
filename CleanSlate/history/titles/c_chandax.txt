@@ -8,7 +8,7 @@
 
 827.1.1 = {
 	holder = 159524 # Umar I
-	conquest_culture = andalusian
+	conquest_culture = andalusian_arabic
 }
 
 855.1.1 = {
@@ -119,3 +119,4 @@
 1328.12.31 = {
 	holder = 463600 #Francesco Dandalo
 }
+

@@ -10,10 +10,10 @@ iberian = {
 		}
 	}
 
-	graphical_cultures = { iberiangfx occitangfx } # occitangfx
+	graphical_cultures = { occitangfx }
 
 	basque = {
-		graphical_cultures = { basquegfx italiangfx trueoccitangfx } # italiangfx trueoccitangfx occitangfx
+		graphical_cultures = { italiangfx trueoccitangfx occitangfx }
 		color = { 0.55 0.42 0.04 }
 
 		male_names = {
@@ -83,7 +83,7 @@ iberian = {
 			}
 		}
 
-		graphical_cultures = { castiliangfx southerngfx } # southerngfx
+		graphical_cultures = { southerngfx }
 		color = { 0.95 0.82 0.09 }
 
 		male_names = {
@@ -149,7 +149,7 @@ iberian = {
 			}
 		}
 
-		graphical_cultures = { catalangfx southerngfx } # southerngfx
+		graphical_cultures = { southerngfx }
 		color = { 0.85 0.75 0.08 }
 
 		male_names = {
@@ -207,7 +207,7 @@ iberian = {
 			}
 		}
 
-		graphical_cultures = { portuguesegfx southerngfx } # southerngfx
+		graphical_cultures = { southerngfx }
 		color = { 0.75 0.67 0.07 }
 
 		male_names = {
@@ -274,7 +274,7 @@ iberian = {
 			}
 		}
 
-		graphical_cultures = { visigothicgfx southerngfx } # southerngfx
+		graphical_cultures = { southerngfx }
 		color = { 0.55 0.55 0.15 }
 
 		male_names = {

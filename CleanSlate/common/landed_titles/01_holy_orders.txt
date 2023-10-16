@@ -253,7 +253,7 @@ d_haruriyyah = {
 	# Always exists
 	landless = yes
 
-	culture = bedouin
+	culture = bedouin_arabic
 
 	# Parent Religion
 	religion = ibadi

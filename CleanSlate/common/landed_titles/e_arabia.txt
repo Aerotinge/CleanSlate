@@ -4,7 +4,7 @@ e_arabia = {
 
 	capital = 1505 # Damascus
 
-	culture = bedouin
+	culture = bedouin_arabic
 
 	allow = {
 		can_create_empire = yes
@@ -24,7 +24,7 @@ e_arabia = {
 
 		capital = 1533 # Mecca
 
-		culture = bedouin
+		culture = bedouin_arabic
 
 		muslim = 4000 # Crusade target weight
 		zoroastrian_group = 500 # Crusade target weight
@@ -459,7 +459,7 @@ e_arabia = {
 
 		capital	= 1609 # Cairo
 
-		culture = egyptian
+		culture = egyptian_arabic
 
 		catholic = 450 # Crusade target weight
 		orthodox = 20 # Crusade target weight
@@ -497,20 +497,20 @@ e_arabia = {
 				holy_site = hellenic_pagan_reformed
 
 				coptic = "Rakote"
-				egyptian = "al-Iskandariyya"
-				bedouin = "al-Iskandariyya"
-				berber = "al-Iskandariyya"
-				levantine = "al-Iskandariyya"
-				andalusian = "al-Iskandariyya"
+				egyptian_arabic = "al-Iskandariyya"
+				bedouin_arabic = "al-Iskandariyya"
+				maghreb_arabic = "al-Iskandariyya"
+				levantine_arabic = "al-Iskandariyya"
+				andalusian_arabic = "al-Iskandariyya"
 
 				b_alexandria = {
 					pentarchy = yes
 					coptic = "Rakote"
-					egyptian = "al-Iskandariyya"
-					bedouin = "al-Iskandariyya"
-					berber = "al-Iskandariyya"
-					levantine = "al-Iskandariyya"
-					andalusian = "al-Iskandariyya"
+					egyptian_arabic = "al-Iskandariyya"
+					bedouin_arabic = "al-Iskandariyya"
+					maghreb_arabic = "al-Iskandariyya"
+					levantine_arabic = "al-Iskandariyya"
+					andalusian_arabic = "al-Iskandariyya"
 				}
 				b_abukir = {}
 				b_damanhur = {}
@@ -526,22 +526,22 @@ e_arabia = {
 				color2 = { 255 255 255 }
 
 				coptic = "Rashit"
-				egyptian = "al-Mallidis"
-				bedouin = "al-Mallidis"
-				berber = "al-Mallidis"
-				levantine = "al-Mallidis"
-				andalusian = "al-Mallidis"
+				egyptian_arabic = "al-Mallidis"
+				bedouin_arabic = "al-Mallidis"
+				maghreb_arabic = "al-Mallidis"
+				levantine_arabic = "al-Mallidis"
+				andalusian_arabic = "al-Mallidis"
 
 				b_rosetta = {
 					coptic = "Rashit"
 				}
 				b_fuwa = {}
 				b_hermopolis = {
-					egyptian = "Damanhur"
-					bedouin = "Damanhur"
-					berber = "Damanhur"
-					levantine = "Damanhur"
-					andalusian = "Damanhur"
+					egyptian_arabic = "Damanhur"
+					bedouin_arabic = "Damanhur"
+					maghreb_arabic = "Damanhur"
+					levantine_arabic = "Damanhur"
+					andalusian_arabic = "Damanhur"
 				}
 				b_buto = {}
 				b_disuq = {}
@@ -553,19 +553,19 @@ e_arabia = {
 				color = { 110 229 144 }
 				color2 = { 255 255 255 }
 
-				egyptian = "al-Giziya"
-				bedouin = "al-Giziya"
-				berber = "al-Giziya"
-				levantine = "al-Giziya"
-				andalusian = "al-Giziya"
+				egyptian_arabic = "al-Giziya"
+				bedouin_arabic = "al-Giziya"
+				maghreb_arabic = "al-Giziya"
+				levantine_arabic = "al-Giziya"
+				andalusian_arabic = "al-Giziya"
 				coptic = "Tiperses"
 
 				b_gizeh = {
-					egyptian = "al-Giziya"
-					bedouin = "al-Giziya"
-					berber = "al-Giziya"
-					levantine = "al-Giziya"
-					andalusian = "al-Giziya"
+					egyptian_arabic = "al-Giziya"
+					bedouin_arabic = "al-Giziya"
+					maghreb_arabic = "al-Giziya"
+					levantine_arabic = "al-Giziya"
+					andalusian_arabic = "al-Giziya"
 					coptic = "Tiperses"
 				}
 				b_aburowash = {}
@@ -581,35 +581,35 @@ e_arabia = {
 				color = { 95 228 115 }
 				color2 = { 255 255 255 }
 
-				egyptian = "al-Badaqun"
-				bedouin = "al-Badaqun"
-				berber = "al-Badaqun"
-				levantine = "al-Badaqun"
-				andalusian = "al-Badaqun"
+				egyptian_arabic = "al-Badaqun"
+				bedouin_arabic = "al-Badaqun"
+				maghreb_arabic = "al-Badaqun"
+				levantine_arabic = "al-Badaqun"
+				andalusian_arabic = "al-Badaqun"
 				coptic = "Arbat"
 
 				b_kharibta = {
-					egyptian = "Khiribta"
-					bedouin = "Khiribta"
-					berber = "Khiribta"
-					levantine = "Khiribta"
-					andalusian = "Khiribta"
+					egyptian_arabic = "Khiribta"
+					bedouin_arabic = "Khiribta"
+					maghreb_arabic = "Khiribta"
+					levantine_arabic = "Khiribta"
+					andalusian_arabic = "Khiribta"
 					coptic = "Arbat"
 				}
 				b_scetis = {
-					egyptian = "Wadi El Natrun"
-					bedouin = "Wadi El Natrun"
-					berber = "Wadi El Natrun"
-					levantine = "Wadi El Natrun"
-					andalusian = "Wadi El Natrun"
+					egyptian_arabic = "Wadi El Natrun"
+					bedouin_arabic = "Wadi El Natrun"
+					maghreb_arabic = "Wadi El Natrun"
+					levantine_arabic = "Wadi El Natrun"
+					andalusian_arabic = "Wadi El Natrun"
 					coptic = "Sihet"
 				}
 				b_naucratis_egypt = {
-					egyptian = "Piemro"
-					bedouin = "Piemro"
-					berber = "Piemro"
-					levantine = "Piemro"
-					andalusian = "Piemro"
+					egyptian_arabic = "Piemro"
+					bedouin_arabic = "Piemro"
+					maghreb_arabic = "Piemro"
+					levantine_arabic = "Piemro"
+					andalusian_arabic = "Piemro"
 				}
 				b_atfih = {
 					coptic = "Petpeh"
@@ -641,21 +641,21 @@ e_arabia = {
 				coptic = "Sioout"
 				greek = "Lycopolis"
 				roman = "Lycopolis"
-				egyptian = "al-Asyutiya"
-				bedouin = "al-Asyutiya"
-				berber = "al-Asyutiya"
-				levantine = "al-Asyutiya"
-				andalusian = "al-Asyutiya"
+				egyptian_arabic = "al-Asyutiya"
+				bedouin_arabic = "al-Asyutiya"
+				maghreb_arabic = "al-Asyutiya"
+				levantine_arabic = "al-Asyutiya"
+				andalusian_arabic = "al-Asyutiya"
 
 				b_asyut = {
 					coptic = "Sioout"
 					greek = "Lycopolis"
 					roman = "Lycopolis"
-					egyptian = "al-Asyutiya"
-					bedouin = "al-Asyutiya"
-					berber = "al-Asyutiya"
-					levantine = "al-Asyutiya"
-					andalusian = "al-Asyutiya"
+					egyptian_arabic = "al-Asyutiya"
+					bedouin_arabic = "al-Asyutiya"
+					maghreb_arabic = "al-Asyutiya"
+					levantine_arabic = "al-Asyutiya"
+					andalusian_arabic = "al-Asyutiya"
 				}
 				b_kusai = {}
 				b_durunka = {}
@@ -672,21 +672,21 @@ e_arabia = {
 				coptic = "Sne"
 				greek = "Latopolis"
 				roman = "Latopolis"
-				egyptian = "Isna"
-				bedouin = "Isna"
-				berber = "Isna"
-				levantine = "Isna"
-				andalusian = "Isna"
+				egyptian_arabic = "Isna"
+				bedouin_arabic = "Isna"
+				maghreb_arabic = "Isna"
+				levantine_arabic = "Isna"
+				andalusian_arabic = "Isna"
 
 				b_esna = {
 					coptic = "Sne"
 					greek = "Latopolis"
 					roman = "Latopolis"
-					egyptian = "Isna"
-					bedouin = "Isna"
-					berber = "Isna"
-					levantine = "Isna"
-					andalusian = "Isna"
+					egyptian_arabic = "Isna"
+					bedouin_arabic = "Isna"
+					maghreb_arabic = "Isna"
+					levantine_arabic = "Isna"
+					andalusian_arabic = "Isna"
 				}
 				b_armant = {
 					greek = "Hermonthis"
@@ -770,11 +770,11 @@ e_arabia = {
 				color2 = { 255 255 255 }
 
 				coptic = "Ena"
-				egyptian = "al-Qusiya"
-				bedouin = "al-Qusiya"
-				berber = "al-Qusiya"
-				levantine = "al-Qusiya"
-				andalusian = "al-Qusiya"
+				egyptian_arabic = "al-Qusiya"
+				bedouin_arabic = "al-Qusiya"
+				maghreb_arabic = "al-Qusiya"
+				levantine_arabic = "al-Qusiya"
+				andalusian_arabic = "al-Qusiya"
 
 				b_quena = {
 					coptic = "Ena"
@@ -810,27 +810,27 @@ e_arabia = {
 				color2 = { 255 255 255 }
 
 				coptic = "Khmin"
-				egyptian = "al-Ihmimiya"
-				bedouin = "al-Ihmimiya"
-				berber = "al-Ihmimiya"
-				levantine = "al-Ihmimiya"
-				andalusian = "al-Ihmimiya"
+				egyptian_arabic = "al-Ihmimiya"
+				bedouin_arabic = "al-Ihmimiya"
+				maghreb_arabic = "al-Ihmimiya"
+				levantine_arabic = "al-Ihmimiya"
+				andalusian_arabic = "al-Ihmimiya"
 
 				b_akhmim = {
 					coptic = "Khmin"
-					egyptian = "al-Ihmimiya"
-					bedouin = "al-Ihmimiya"
-					berber = "al-Ihmimiya"
-					levantine = "al-Ihmimiya"
-					andalusian = "al-Ihmimiya"
+					egyptian_arabic = "al-Ihmimiya"
+					bedouin_arabic = "al-Ihmimiya"
+					maghreb_arabic = "al-Ihmimiya"
+					levantine_arabic = "al-Ihmimiya"
+					andalusian_arabic = "al-Ihmimiya"
 				}
 				b_al_minya = {}
 				b_cynopolis = {
-					egyptian = "El Kays"
-					bedouin = "El Kays"
-					berber = "El Kays"
-					levantine = "El Kays"
-					andalusian = "El Kays"
+					egyptian_arabic = "El Kays"
+					bedouin_arabic = "El Kays"
+					maghreb_arabic = "El Kays"
+					levantine_arabic = "El Kays"
+					andalusian_arabic = "El Kays"
 				}
 				b_antinoe = {
 					coptic = "Antinow"
@@ -867,18 +867,18 @@ e_arabia = {
 				color = { 40 220 100 }
 				color2 = { 255 255 255 }
 
-				egyptian = "al-Kulzum"
-				bedouin = "al-Kulzum"
-				berber = "al-Kulzum"
-				levantine = "al-Kulzum"
-				andalusian = "al-Kulzum"
+				egyptian_arabic = "al-Kulzum"
+				bedouin_arabic = "al-Kulzum"
+				maghreb_arabic = "al-Kulzum"
+				levantine_arabic = "al-Kulzum"
+				andalusian_arabic = "al-Kulzum"
 
 				b_kolzum = {
-					egyptian = "al-Kulzum"
-					bedouin = "al-Kulzum"
-					berber = "al-Kulzum"
-					levantine = "al-Kulzum"
-					andalusian = "al-Kulzum"
+					egyptian_arabic = "al-Kulzum"
+					bedouin_arabic = "al-Kulzum"
+					maghreb_arabic = "al-Kulzum"
+					levantine_arabic = "al-Kulzum"
+					andalusian_arabic = "al-Kulzum"
 				}
 				b_sokhna = {}
 				b_taufiq = {}
@@ -893,11 +893,11 @@ e_arabia = {
 				color2 = { 255 255 255 }
 
 				coptic = "Phelbes"
-				egyptian = "al-Sarqiya"
-				bedouin = "al-Sarqiya"
-				berber = "al-Sarqiya"
-				levantine = "al-Sarqiya"
-				andalusian = "al-Sarqiya"
+				egyptian_arabic = "al-Sarqiya"
+				bedouin_arabic = "al-Sarqiya"
+				maghreb_arabic = "al-Sarqiya"
+				levantine_arabic = "al-Sarqiya"
+				andalusian_arabic = "al-Sarqiya"
 
 				b_sarqinya = {
 					coptic = "Phelbes"
@@ -930,11 +930,11 @@ e_arabia = {
 
 				coptic = "Tamiat"
 				greek = "Tamiathis"
-				egyptian = "ad-Dingawiya"
-				bedouin = "ad-Dingawiya"
-				berber = "ad-Dingawiya"
-				levantine = "ad-Dingawiya"
-				andalusian = "ad-Dingawiya"
+				egyptian_arabic = "ad-Dingawiya"
+				bedouin_arabic = "ad-Dingawiya"
+				maghreb_arabic = "ad-Dingawiya"
+				levantine_arabic = "ad-Dingawiya"
+				andalusian_arabic = "ad-Dingawiya"
 
 				b_damietta = {
 					coptic = "Tamiat"
@@ -955,11 +955,11 @@ e_arabia = {
 				color2 = { 255 255 255 }
 
 				coptic = "Dishairi"
-				egyptian = "al-Garbiya"
-				bedouin = "al-Garbiya"
-				berber = "al-Garbiya"
-				levantine = "al-Garbiya"
-				andalusian = "al-Garbiya"
+				egyptian_arabic = "al-Garbiya"
+				bedouin_arabic = "al-Garbiya"
+				maghreb_arabic = "al-Garbiya"
+				levantine_arabic = "al-Garbiya"
+				andalusian_arabic = "al-Garbiya"
 
 				b_malhalla = {
 					coptic = "Dishairi"
@@ -977,11 +977,11 @@ e_arabia = {
 				color2 = { 255 255 255 }
 
 				coptic = "Jani"
-				egyptian = "ad-Daqahliya"
-				bedouin = "ad-Daqahliya"
-				berber = "ad-Daqahliya"
-				levantine = "ad-Daqahliya"
-				andalusian = "ad-Daqahliya"
+				egyptian_arabic = "ad-Daqahliya"
+				bedouin_arabic = "ad-Daqahliya"
+				maghreb_arabic = "ad-Daqahliya"
+				levantine_arabic = "ad-Daqahliya"
+				andalusian_arabic = "ad-Daqahliya"
 
 				b_pelusia = {}
 				b_alsalihiyah = {}
@@ -1031,29 +1031,29 @@ e_arabia = {
 
 				coptic = "Phiom"
 				roman = "Arsinoe"
-				egyptian = "al-Fayyumiya"
-				bedouin = "al-Fayyumiya"
-				berber = "al-Fayyumiya"
-				levantine = "al-Fayyumiya"
-				andalusian = "al-Fayyumiya"
+				egyptian_arabic = "al-Fayyumiya"
+				bedouin_arabic = "al-Fayyumiya"
+				maghreb_arabic = "al-Fayyumiya"
+				levantine_arabic = "al-Fayyumiya"
+				andalusian_arabic = "al-Fayyumiya"
 
 				b_faiyum = {
 					coptic = "Phiom"
-					egyptian = "al-Fayyumiya"
-					bedouin = "al-Fayyumiya"
-					berber = "al-Fayyumiya"
-					levantine = "al-Fayyumiya"
-					andalusian = "al-Fayyumiya"
+					egyptian_arabic = "al-Fayyumiya"
+					bedouin_arabic = "al-Fayyumiya"
+					maghreb_arabic = "al-Fayyumiya"
+					levantine_arabic = "al-Fayyumiya"
+					andalusian_arabic = "al-Fayyumiya"
 				}
 				b_ahnas = {
 					coptic = "Ahnes"
 				}
 				b_bahnasa = {
-					egyptian = "al-Bahnasa"
-					bedouin = "al-Bahnasa"
-					berber = "al-Bahnasa"
-					levantine = "al-Bahnasa"
-					andalusian = "al-Bahnasa"
+					egyptian_arabic = "al-Bahnasa"
+					bedouin_arabic = "al-Bahnasa"
+					maghreb_arabic = "al-Bahnasa"
+					levantine_arabic = "al-Bahnasa"
+					andalusian_arabic = "al-Bahnasa"
 					coptic = "Pemdje"
 				}
 				b_beni_suef = {
@@ -1077,7 +1077,7 @@ e_arabia = {
 				b_ain_della = {}
 				b_wadi_hinnis = {}
 				b_white_desert = {
-					egyptian = "Sahara El Beyda"
+					egyptian_arabic = "Sahara El Beyda"
 				}
 				b_ain_bishay = {}
 				b_qasrfarfra = {}
@@ -1133,22 +1133,22 @@ e_arabia = {
 				color2 = { 255 255 255 }
 
 				coptic = "Peremoun"
-				egyptian = "al-Farama"
-				berber = "al-Farama"
-				levantine = "al-Farama"
-				bedouin = "al-Farama"
-				andalusian = "al-Farama"
+				egyptian_arabic = "al-Farama"
+				maghreb_arabic = "al-Farama"
+				levantine_arabic = "al-Farama"
+				bedouin_arabic = "al-Farama"
+				andalusian_arabic = "al-Farama"
 				ashkenazi = "Sin"
 				sephardi = "Sin"
 				greek = "Pelousion"
 
 				b_farama = {
 					coptic = "Peremoun"
-					egyptian = "al-Farama"
-					berber = "al-Farama"
-					levantine = "al-Farama"
-					bedouin = "al-Farama"
-					andalusian = "al-Farama"
+					egyptian_arabic = "al-Farama"
+					maghreb_arabic = "al-Farama"
+					levantine_arabic = "al-Farama"
+					bedouin_arabic = "al-Farama"
+					andalusian_arabic = "al-Farama"
 					greek = "Pelousion"
 				}
 				b_sin = {}
@@ -1187,11 +1187,11 @@ e_arabia = {
 
 			capital = 1624 # Paraetonium
 
-			egyptian = "al-Baretoun"
-			bedouin = "al-Baretoun"
-			berber = "al-Baretoun"
-			levantine = "al-Baretoun"
-			andalusian = "al-Baretoun"
+			egyptian_arabic = "al-Baretoun"
+			bedouin_arabic = "al-Baretoun"
+			maghreb_arabic = "al-Baretoun"
+			levantine_arabic = "al-Baretoun"
+			andalusian_arabic = "al-Baretoun"
 			greek = "Paraitonion"
 			coptic = "Paraitonion"
 
@@ -1216,20 +1216,20 @@ e_arabia = {
 				color = { 40 240 40 }
 				color2 = { 255 255 255 }
 
-				egyptian = "al-Baretoun"
-				bedouin = "al-Baretoun"
-				berber = "al-Baretoun"
-				levantine = "al-Baretoun"
-				andalusian = "al-Baretoun"
+				egyptian_arabic = "al-Baretoun"
+				bedouin_arabic = "al-Baretoun"
+				maghreb_arabic = "al-Baretoun"
+				levantine_arabic = "al-Baretoun"
+				andalusian_arabic = "al-Baretoun"
 				greek = "Paraitonion"
 				coptic = "Paraitonion"
 
 				b_paraetonium = {
-					egyptian = "al-Baretoun"
-					bedouin = "al-Baretoun"
-					berber = "al-Baretoun"
-					levantine = "al-Baretoun"
-					andalusian = "al-Baretoun"
+					egyptian_arabic = "al-Baretoun"
+					bedouin_arabic = "al-Baretoun"
+					maghreb_arabic = "al-Baretoun"
+					levantine_arabic = "al-Baretoun"
+					andalusian_arabic = "al-Baretoun"
 					greek = "Paraitonion"
 					coptic = "Paraitonion"
 				}
@@ -1245,19 +1245,19 @@ e_arabia = {
 				color = { 106 225 140 }
 				color2 = { 255 255 255 }
 
-				egyptian = "Siwah"
-				bedouin = "Siwah"
-				berber = "Isiwan"
-				levantine = "Siwah"
-				andalusian = "Siwah"
+				egyptian_arabic = "Siwah"
+				bedouin_arabic = "Siwah"
+				maghreb_arabic = "Isiwan"
+				levantine_arabic = "Siwah"
+				andalusian_arabic = "Siwah"
 				coptic = "Sesamu"
 
 				b_siwa = {
-					egyptian = "Siwah"
-					bedouin = "Siwah"
-					berber = "Isiwan"
-					levantine = "Siwah"
-					andalusian = "Siwah"
+					egyptian_arabic = "Siwah"
+					bedouin_arabic = "Siwah"
+					maghreb_arabic = "Isiwan"
+					levantine_arabic = "Siwah"
+					andalusian_arabic = "Siwah"
 					coptic = "Sesamu"
 				}
 				b_quattara = {
@@ -1309,7 +1309,7 @@ e_arabia = {
 
 		assimilate = no # Duchies cannot de jure drift IN or OUT of this title
 
-		culture = levantine
+		culture = levantine_arabic
 
 		# Creation/Usurp Trigger
 		allow = {
@@ -1352,20 +1352,20 @@ e_arabia = {
 				color = { 176 190 140 }
 				color2 = { 255 255 255 }
 
-				bedouin = "Asqalan"
-				berber = "Asqalan"
-				levantine = "Asqalan"
-				egyptian = "Asqalan"
-				andalusian = "Asqalan"
+				bedouin_arabic = "Asqalan"
+				maghreb_arabic = "Asqalan"
+				levantine_arabic = "Asqalan"
+				egyptian_arabic = "Asqalan"
+				andalusian_arabic = "Asqalan"
 				ashkenazi = "Ashqelon"
 				sephardi = "Ashqelon"
 
 				b_ascalon = {
-					bedouin = "Asqalan"
-					berber = "Asqalan"
-					levantine = "Asqalan"
-					egyptian = "Asqalan"
-					andalusian = "Asqalan"
+					bedouin_arabic = "Asqalan"
+					maghreb_arabic = "Asqalan"
+					levantine_arabic = "Asqalan"
+					egyptian_arabic = "Asqalan"
+					andalusian_arabic = "Asqalan"
 				}
 				b_harbijah = {}
 				b_agelen = {}
@@ -1411,20 +1411,20 @@ e_arabia = {
 				color = { 167 190 150 }
 				color2 = { 255 255 255 }
 
-				bedouin = "Arsuf"
-				berber = "Arsuf"
-				levantine = "Arsuf"
-				egyptian = "Arsuf"
-				andalusian = "Arsuf"
+				bedouin_arabic = "Arsuf"
+				maghreb_arabic = "Arsuf"
+				levantine_arabic = "Arsuf"
+				egyptian_arabic = "Arsuf"
+				andalusian_arabic = "Arsuf"
 				ashkenazi = "Yophoi"
 				sephardi = "Yapho"
 
 				b_jaffa = {
-					bedouin = "Arsuf"
-					berber = "Arsuf"
-					levantine = "Arsuf"
-					egyptian = "Arsuf"
-					andalusian = "Arsuf"
+					bedouin_arabic = "Arsuf"
+					maghreb_arabic = "Arsuf"
+					levantine_arabic = "Arsuf"
+					egyptian_arabic = "Arsuf"
+					andalusian_arabic = "Arsuf"
 				}
 				b_arsuf = {}
 				b_lydda = {}
@@ -1495,20 +1495,20 @@ e_arabia = {
 				color = { 245 245 200 }
 				color2 = { 255 255 255 }
 
-				bedouin = "Sur"
-				berber = "Sur"
-				levantine = "Sur"
-				egyptian = "Sur"
-				andalusian = "Sur"
+				bedouin_arabic = "Sur"
+				maghreb_arabic = "Sur"
+				levantine_arabic = "Sur"
+				egyptian_arabic = "Sur"
+				andalusian_arabic = "Sur"
 				ashkenazi = "Tzoir"
 				sephardi = "Tzor"
 
 				b_tyrus = {
-					bedouin = "Sur"
-					berber = "Sur"
-					levantine = "Sur"
-					egyptian = "Sur"
-					andalusian = "Sur"
+					bedouin_arabic = "Sur"
+					maghreb_arabic = "Sur"
+					levantine_arabic = "Sur"
+					egyptian_arabic = "Sur"
+					andalusian_arabic = "Sur"
 				}
 
 				b_sarafand = {}
@@ -1602,7 +1602,7 @@ e_arabia = {
 					frankish = "Mirabel"
 					suebi = "Mirabel"
 					english = "Mirabel"
-					anglo_saxon = "Mirabel"
+					anglo-saxon = "Mirabel"
 					saxon = "Mirabel"
 					frisian = "Mirabel"
 					dutch = "Mirabel"
@@ -1650,19 +1650,19 @@ e_arabia = {
 				color = { 150 150 170 }
 				color2 = { 255 255 255 }
 
-				bedouin = "Al-Karak"
-				berber = "Al-Karak"
-				levantine = "Al-Karak"
-				egyptian = "Al-Karak"
-				andalusian = "Al-Karak"
+				bedouin_arabic = "Al-Karak"
+				maghreb_arabic = "Al-Karak"
+				levantine_arabic = "Al-Karak"
+				egyptian_arabic = "Al-Karak"
+				andalusian_arabic = "Al-Karak"
 
 				b_kirhaseset = {}
 				b_kerak = {
-					bedouin = "Al-Karak"
-					berber = "Al-Karak"
-					levantine = "Al-Karak"
-					egyptian = "Al-Karak"
-					andalusian = "Al-Karak"
+					bedouin_arabic = "Al-Karak"
+					maghreb_arabic = "Al-Karak"
+					levantine_arabic = "Al-Karak"
+					egyptian_arabic = "Al-Karak"
+					andalusian_arabic = "Al-Karak"
 				}
 				b_tamar = {}
 				b_zoar = {}
@@ -1693,18 +1693,18 @@ e_arabia = {
 				color = { 190 170 155 }
 				color2 = { 255 255 255 }
 
-				bedouin = "Wadi Musa"
-				berber = "Wadi Musa"
-				levantine = "Wadi Musa"
-				egyptian = "Wadi Musa"
-				andalusian = "Wadi Musa"
+				bedouin_arabic = "Wadi Musa"
+				maghreb_arabic = "Wadi Musa"
+				levantine_arabic = "Wadi Musa"
+				egyptian_arabic = "Wadi Musa"
+				andalusian_arabic = "Wadi Musa"
 
 				b_monreal = {
-					bedouin = "Wadi Musa"
-					berber = "Wadi Musa"
-					levantine = "Wadi Musa"
-					egyptian = "Wadi Musa"
-					andalusian = "Wadi Musa"
+					bedouin_arabic = "Wadi Musa"
+					maghreb_arabic = "Wadi Musa"
+					levantine_arabic = "Wadi Musa"
+					egyptian_arabic = "Wadi Musa"
+					andalusian_arabic = "Wadi Musa"
 				}
 				b_hurmniz = {}
 				b_sela = {}
@@ -1734,7 +1734,7 @@ e_arabia = {
 		color = { 145 130 88 }
 		color2 = { 255 255 255 }
 
-		culture = levantine
+		culture = levantine_arabic
 
 		capital = 1505 # Damascus
 
@@ -1752,11 +1752,11 @@ e_arabia = {
 
 			capital = 1497 # Aleppo
 
-			bedouin = "Halab"
-			berber = "Halab"
-			levantine = "Halab"
-			egyptian = "Halab"
-			andalusian = "Halab"
+			bedouin_arabic = "Halab"
+			maghreb_arabic = "Halab"
+			levantine_arabic = "Halab"
+			egyptian_arabic = "Halab"
+			andalusian_arabic = "Halab"
 			ashkenazi = "Chalpe"
 			sephardi = "Chalpe"
 			greek = "Beroea"
@@ -1783,11 +1783,11 @@ e_arabia = {
 				color = { 91 238 26 }
 				color2 = { 255 255 255 }
 
-				bedouin = "Halab"
-				berber = "Halab"
-				levantine = "Halab"
-				egyptian = "Halab"
-				andalusian = "Halab"
+				bedouin_arabic = "Halab"
+				maghreb_arabic = "Halab"
+				levantine_arabic = "Halab"
+				egyptian_arabic = "Halab"
+				andalusian_arabic = "Halab"
 				ashkenazi = "Chalpe"
 				sephardi = "Chalpe"
 				greek = "Beroea"
@@ -1845,20 +1845,20 @@ e_arabia = {
 				color = { 112 197 50 }
 				color2 = { 255 255 255 }
 
-				bedouin = "Iskandarun"
-				berber = "Iskandarun"
-				levantine = "Iskandarun"
-				egyptian = "Iskandarun"
-				andalusian = "Iskandarun"
+				bedouin_arabic = "Iskandarun"
+				maghreb_arabic = "Iskandarun"
+				levantine_arabic = "Iskandarun"
+				egyptian_arabic = "Iskandarun"
+				andalusian_arabic = "Iskandarun"
 				turkish = "Iskandarun"
 				armenian = "Hrosos"
 
 				b_alexandretta = {
-					bedouin = "Iskandarun"
-					berber = "Iskandarun"
-					levantine = "Iskandarun"
-					egyptian = "Iskandarun"
-					andalusian = "Iskandarun"
+					bedouin_arabic = "Iskandarun"
+					maghreb_arabic = "Iskandarun"
+					levantine_arabic = "Iskandarun"
+					egyptian_arabic = "Iskandarun"
+					andalusian_arabic = "Iskandarun"
 					turkish = "Iskandarun"
 				}
 				b_rhosus = {
@@ -1910,11 +1910,11 @@ e_arabia = {
 			color = { 122 255 3 }
 			color2 = { 255 255 255 }
 
-			bedouin = "Damashq"
-			berber = "Damashq"
-			levantine = "Damashq"
-			egyptian = "Damashq"
-			andalusian = "Damashq"
+			bedouin_arabic = "Damashq"
+			maghreb_arabic = "Damashq"
+			levantine_arabic = "Damashq"
+			egyptian_arabic = "Damashq"
+			andalusian_arabic = "Damashq"
 			ashkenazi = "Damesheq"
 			sephardi = "Damesheq"
 
@@ -1970,11 +1970,11 @@ e_arabia = {
 				color = { 125 255 6 }
 				color2 = { 255 255 255 }
 
-				bedouin = "Damashq"
-				berber = "Damashq"
-				levantine = "Damashq"
-				egyptian = "Damashq"
-				andalusian = "Damashq"
+				bedouin_arabic = "Damashq"
+				maghreb_arabic = "Damashq"
+				levantine_arabic = "Damashq"
+				egyptian_arabic = "Damashq"
+				andalusian_arabic = "Damashq"
 				ashkenazi = "Damesheq"
 				sephardi = "Damesheq"
 
@@ -2137,7 +2137,7 @@ e_arabia = {
 
 		capital = 1556 # Taizz
 
-		culture = bedouin
+		culture = bedouin_arabic
 
 		ashkenazi = "Himyar"
 		sephardi = "Himyar"
@@ -2155,11 +2155,11 @@ e_arabia = {
 
 			capital = 1551 # Kathiri
 
-			bedouin = "Hadramawt"
-			berber = "Hadramawt"
-			levantine = "Hadramawt"
-			egyptian = "Hadramawt"
-			andalusian = "Hadramawt"
+			bedouin_arabic = "Hadramawt"
+			maghreb_arabic = "Hadramawt"
+			levantine_arabic = "Hadramawt"
+			egyptian_arabic = "Hadramawt"
+			andalusian_arabic = "Hadramawt"
 
 			allow = {
 				can_create_duchy = yes
@@ -2187,11 +2187,11 @@ e_arabia = {
 				color = { 140 255 53 }
 				color2 = { 255 255 255 }
 
-				bedouin = "Hadramawt"
-				berber = "Hadramawt"
-				levantine = "Hadramawt"
-				egyptian = "Hadramawt"
-				andalusian = "Hadramawt"
+				bedouin_arabic = "Hadramawt"
+				maghreb_arabic = "Hadramawt"
+				levantine_arabic = "Hadramawt"
+				egyptian_arabic = "Hadramawt"
+				andalusian_arabic = "Hadramawt"
 
 				b_shabwa = {}
 				b_lodar = {}

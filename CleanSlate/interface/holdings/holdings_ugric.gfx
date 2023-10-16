@@ -121,15 +121,15 @@ spriteTypes = {
 	# shiitegfx
 	# sunnigfx
 
-	## jewishgfx
+	## judaicgfx
 	spriteType = {
-		name = "GFX_settlement_temple_ugricgfx_jewishgfx"
+		name = "GFX_settlement_temple_ugricgfx_judaicgfx"
 		textureFile = "gfx\\interface\\placeholder_temple_norse.tga"
 		noOfFrames = 1
 		noRefCount = yes
 	}
 	spriteType = { # Missing from vanilla
-		name = "GFX_settlement_temple_ugricgfx_jewishgfx_looted"
+		name = "GFX_settlement_temple_ugricgfx_judaicgfx_looted"
 		textureFile = "gfx\\interface\\placeholder_temple_norse.tga"
 		noOfFrames = 1
 		noRefCount = yes
@@ -150,11 +150,11 @@ spriteTypes = {
 		noOfFrames = 1
 		noRefCount = yes
 	}
-	# saheliangfx
+	# africanpagangfx
 	# aztecgfx
-	# romuvagfx
+	# balticgfx
 	# bongfx
-	# suomenuskogfx
+	# finnishgfx
 	# hellenicgfx
 	spriteType = {
 		name = "GFX_settlement_temple_ugricgfx_hellenicgfx"
@@ -168,8 +168,8 @@ spriteTypes = {
 		noOfFrames = 1
 		noRefCount = yes
 	}
-	# heathengfx
-	# rodnoverygfx
+	# nordicgfx
+	# slavicgfx
 	# tengrigfx
 	# zungfx
 

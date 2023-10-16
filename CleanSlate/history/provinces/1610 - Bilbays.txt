@@ -16,7 +16,7 @@ b_zagazig = castle
 #b_suez = city
 
 # Misc
-culture = egyptian
+culture = egyptian_arabic
 religion = miaphysite
 
 # History

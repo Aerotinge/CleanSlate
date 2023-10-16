@@ -16,7 +16,7 @@ b_tayma = temple
 #b_tawala = city
 
 # Misc
-culture = bedouin
+culture = bedouin_arabic
 religion = sunni
 
 # History

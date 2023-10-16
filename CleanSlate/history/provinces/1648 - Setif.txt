@@ -16,7 +16,7 @@ b_ikjan = city
 #b_mechreck = castle
 
 # Misc
-culture = berber
+culture = maghreb_arabic
 religion = ibadi
 
 # History

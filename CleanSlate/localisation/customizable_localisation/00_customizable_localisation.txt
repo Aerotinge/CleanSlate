@@ -7842,7 +7842,7 @@ defined_text = {
 
 					OR = {
 						culture_group = north_germanic
-						culture = anglo_saxon
+						culture = anglo-saxon
 						culture = saxon
 					}
 				}
@@ -7915,7 +7915,7 @@ defined_text = {
 
 					OR = {
 						culture_group = north_germanic
-						culture = anglo_saxon
+						culture = anglo-saxon
 						culture = saxon
 					}
 				}
@@ -21240,7 +21240,7 @@ defined_text = {
 	use_first_valid = yes
 
 	text = {
-		trigger = { culture = andalusian }
+		trigger = { culture = andalusian_arabic }
 		localisation_key = Culture_Army_Andalusian
 	}
 	text = {
@@ -21259,9 +21259,9 @@ defined_text = {
 	text = {
 		trigger = {
 			OR = {
-				culture = bedouin
-				culture = egyptian
-				culture = levantine
+				culture = bedouin_arabic
+				culture = egyptian_arabic
+				culture = levantine_arabic
 			}
 		}
 		localisation_key = Culture_Army_Bedouin
@@ -21276,7 +21276,7 @@ defined_text = {
 		localisation_key = Culture_Army_Baltic
 	}
 	text = {
-		trigger = { culture = berber }
+		trigger = { culture = maghreb_arabic }
 		localisation_key = Culture_Army_Berber
 	}
 	text = {
@@ -21365,7 +21365,7 @@ defined_text = {
 			OR = {
 				culture_group = north_germanic
 				culture = saxon
-				culture = anglo_saxon
+				culture = anglo-saxon
 				culture = frisian
 			}
 		}

@@ -15,7 +15,7 @@ b_furness = temple
 #b_clitheroe = castle
 
 # Misc
-culture = anglo_saxon
+culture = anglo-saxon
 religion = catholic
 
 # History

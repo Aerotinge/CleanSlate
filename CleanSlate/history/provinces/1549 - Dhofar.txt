@@ -16,7 +16,7 @@ b_salalah = tribal
 #b_harzan = castle
 
 # Misc
-culture = bedouin
+culture = bedouin_arabic
 religion = ibadi
 
 # History

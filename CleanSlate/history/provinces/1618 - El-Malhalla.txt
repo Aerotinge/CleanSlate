@@ -12,7 +12,7 @@ b_tanta = temple
 b_mansoura = castle
 
 # Misc
-culture = egyptian
+culture = egyptian_arabic
 religion = miaphysite
 
 # History

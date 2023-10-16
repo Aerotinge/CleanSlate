@@ -16,7 +16,7 @@ b_shabwa = tribal
 #b_azzan = castle
 
 # Misc
-culture = bedouin
+culture = bedouin_arabic
 religion = ibadi
 
 # History

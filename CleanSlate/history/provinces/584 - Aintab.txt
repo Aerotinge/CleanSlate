@@ -23,4 +23,6 @@ religion = miaphysite
 	culture = kurdish
 	religion = sunni
 }
-1320.1.1 = { culture = levantine }
+1320.1.1 = { culture = levantine_arabic }
+
+

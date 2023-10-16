@@ -15,7 +15,7 @@ b_alhamra = city
 #b_yanqui = castle
 
 # Misc
-culture = bedouin
+culture = bedouin_arabic
 religion = ibadi
 
 # History

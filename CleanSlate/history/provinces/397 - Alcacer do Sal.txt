@@ -21,7 +21,7 @@ religion = catholic
 # History
 
 939.1.1 = {
-	culture = andalusian
+	culture = andalusian_arabic
 	religion = sunni
 }
 
@@ -31,3 +31,4 @@ religion = catholic
 	culture = portuguese
 	religion = catholic
 }
+

@@ -16,7 +16,7 @@ b_attur = castle
 #b_nabq = castle
 
 # Misc
-culture = levantine
+culture = levantine_arabic
 religion = sunni
 
 # History

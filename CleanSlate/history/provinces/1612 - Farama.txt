@@ -16,7 +16,7 @@ b_seyan = city
 #b_mustabiq = castle
 
 # Misc
-culture = levantine
+culture = levantine_arabic
 religion = miaphysite
 
 # History

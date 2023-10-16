@@ -11,7 +11,7 @@ song = {
 		trigger = {
 			OR = {
 				culture = english
-				culture = anglo_saxon
+				culture = anglo-saxon
 			}
 		}
 	}
@@ -28,7 +28,7 @@ song = {
 		trigger = {
 			OR = {
 				culture = english
-				culture = anglo_saxon
+				culture = anglo-saxon
 			}
 		}
 	}
@@ -45,7 +45,7 @@ song = {
 		trigger = {
 			OR = {
 				culture = english
-				culture = anglo_saxon
+				culture = anglo-saxon
 			}
 		}
 	}
@@ -62,7 +62,7 @@ song = {
 		trigger = {
 			OR = {
 				culture = english
-				culture = anglo_saxon
+				culture = anglo-saxon
 			}
 		}
 	}

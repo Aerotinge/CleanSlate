@@ -136,7 +136,7 @@ objectTypes = {
 
 	### Judaic (Jewish)
 	EMFXActorType = {
-		name = "jewishgfx_count_shield"
+		name = "judaicgfx_count_shield"
 		actorFile = "gfx\models\Shields\count_shield.xac"
 		scale = 0.5f
 		use_animation = no
@@ -144,7 +144,7 @@ objectTypes = {
 		scale_on_cull_distance = no
 	}
 	EMFXActorType = {
-		name = "jewishgfx_duke_shield"
+		name = "judaicgfx_duke_shield"
 		actorFile = "gfx\models\Shields\duke_shield.xac"
 		scale = 0.5f
 		use_animation = no
@@ -152,7 +152,7 @@ objectTypes = {
 		scale_on_cull_distance = no
 	}
 	EMFXActorType = {
-		name = "jewishgfx_king_shield"
+		name = "judaicgfx_king_shield"
 		actorFile = "gfx\models\Shields\king_shield.xac"
 		scale = 0.5f
 		use_animation = no
@@ -160,7 +160,7 @@ objectTypes = {
 		scale_on_cull_distance = no
 	}
 	EMFXActorType = {
-		name = "jewishgfx_emperor_shield"
+		name = "judaicgfx_emperor_shield"
 		actorFile = "gfx\models\Shields\empire_shield.xac"
 		scale = 0.5f
 		use_animation = no
@@ -330,28 +330,28 @@ objectTypes = {
 	}
 	# West African (African Pagan)
 	pdxMesh = {
-		name = "saheliangfx_count_shield"
+		name = "africanpagangfx_count_shield"
 		file = "gfx\models\Shields\hf_west_african_shield_count.mesh"
 		scale = 1.2f
 		cull_distance = 550.0f
 		scale_on_cull_distance = no
 	}
 	pdxMesh = {
-		name = "saheliangfx_duke_shield"
+		name = "africanpagangfx_duke_shield"
 		file = "gfx\models\Shields\hf_west_african_shield_duke.mesh"
 		scale = 1.2f
 		cull_distance = 550.0f
 		scale_on_cull_distance = no
 	}
 	pdxMesh = {
-		name = "saheliangfx_king_shield"
+		name = "africanpagangfx_king_shield"
 		file = "gfx\models\Shields\hf_west_african_shield_king.mesh"
 		scale = 1.2f
 		cull_distance = 550.0f
 		scale_on_cull_distance = no
 	}
 	pdxMesh = {
-		name = "saheliangfx_emperor_shield"
+		name = "africanpagangfx_emperor_shield"
 		file = "gfx\models\Shields\hf_west_african_shield_emperor.mesh"
 		scale = 1.2f
 		cull_distance = 550.0f

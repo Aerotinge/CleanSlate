@@ -140,7 +140,7 @@ dlc003 = { # Songs of Albion
 
 		trigger = {
 			OR = {
-				culture = anglo_saxon
+				culture = anglo-saxon
 				culture = english
 			}
 		}
@@ -576,7 +576,7 @@ dlc037 = {
 		weight = 10
 
 		trigger = {
-			culture = anglo_saxon
+			culture = anglo-saxon
 		}
 	}
 }
@@ -706,7 +706,7 @@ dlc047 = {
 				culture = italian
 				culture = roman
 				culture = assyrian
-				culture = andalusian
+				culture = andalusian_arabic
 				culture = armenian
 				culture = greek
 				culture = georgian
@@ -901,7 +901,7 @@ dlc063 = {
 			OR = {
 				culture_group = north_germanic
 				culture = english
-				culture = anglo_saxon
+				culture = anglo-saxon
 				culture = frisian
 				culture = norman
 				culture = occitan
@@ -1125,7 +1125,7 @@ dlc011 = {
 		weight = 4
 
 		trigger = {
-			culture = andalusian
+			culture = andalusian_arabic
 		}
 	}
 
@@ -1149,9 +1149,9 @@ dlc011 = {
 
 		trigger = {
 			OR = {
-				culture = bedouin
-				culture = egyptian
-				culture = levantine
+				culture = bedouin_arabic
+				culture = egyptian_arabic
+				culture = levantine_arabic
 			}
 		}
 	}
@@ -1175,7 +1175,7 @@ dlc011 = {
 		weight = 4
 
 		trigger = {
-			culture = berber
+			culture = maghreb_arabic
 		}
 	}
 
@@ -1370,7 +1370,7 @@ dlc011 = {
 		trigger = {
 			OR = {
 				culture = frankish
-				culture = anglo_saxon
+				culture = anglo-saxon
 				culture = frisian
 				culture_group = north_germanic
 			}
@@ -1470,7 +1470,7 @@ dlc011 = {
 
 		trigger = {
 			OR = {
-				culture = andalusian
+				culture = andalusian_arabic
 				culture = castilian
 				culture = catalan
 				culture = portuguese
